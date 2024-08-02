@@ -52,11 +52,7 @@ function Card() {
                 </div>
                 <button className="card-button">Buy Now</button><br/>
             </div>
-        
-
-            
         </div>
-      
       </>
     )
   }
